@@ -1,5 +1,5 @@
 # Project 집PT
-프로젝트 정리 Notion 링크 : https://www.notion.so/120d7e40134349d68aa24918384f3f21?pvs=4
+프로젝트 정리 Notion 링크 : https://www.notion.so/Intel-Edge-AI-d020b3a31ccc44c1b93422d7db8c7161
 
 ![image](https://github.com/user-attachments/assets/9866e84e-500d-4de0-818c-f49d1235d711)
 
