@@ -1,0 +1,11 @@
+{% extends 'blog/base.html' %}
+
+{% block content %}
+  <div style="display: flex; justify-content: center; align-items: center; height: calc(100vh - 200px);">
+    <div style="text-align: center;">
+        <h1>Web Cam</h1>
+        <button onclick="window.location.href='{% url 'webcam' %}'">Open Webcam</button>
+    </div>
+</div>
+
+{% endblock %}

@@ -1,0 +1,31 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>집PT</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+        <link rel="stylesheet" href="{% static 'css/home.css' %}" />
+        <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    </head>
+    <body class="preload homepage">
+        <div id="homepage-wrapper">
+            <!-- Navbar -->
+                {% include 'blog/navbar.html' %}
+
+            <!--#include virtual="navbar.html" -->
+
+            <!-- Main -->
+            <main class="container mt-4">
+        {% block content %}
+        {% endblock %}
+    </main>
+
+            <!-- Footer -->
+                {% include 'blog/footer.html' %}
+
+            <!--#include virtual="footer.html" -->
+        </div>
+    </body>
+</html>
