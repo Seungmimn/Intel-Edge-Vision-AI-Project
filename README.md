@@ -51,7 +51,8 @@
 * 데이터베이스: SQLite
 
 ### 데이터 흐름도
-![image](https://github.com/suhwanjo/Intel-Edge-AI-SW-Academy-Vision-AI/assets/112834460/d60994ae-a465-41c7-9dce-ca7e13ae2f5e)
+![image](https://github.com/user-attachments/assets/6f903d7f-cb58-4301-bafa-fadc712e3086)
+
 
 ### 기능 요구사항
 1. 하품 횟수 파악
